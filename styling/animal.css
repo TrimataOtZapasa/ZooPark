@@ -1,0 +1,17 @@
+body {
+    background: #f4f9f4;
+}
+
+.container {
+    padding-top: 5%;
+}
+
+h1 {
+    color: #2c6e49;
+}
+
+.img-fluid {
+    width: 60%;
+    height: auto;
+    border-radius: 10px;
+}
